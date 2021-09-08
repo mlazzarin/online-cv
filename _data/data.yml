@@ -12,10 +12,10 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: marco.lazzarin@studenti.unimi.it
+    email: marcolazzarin97@gmail.com
     phone:
     website: # do not add http://
-    linkedin: marco-lazzarin-204355218
+    linkedin: marco-lazzarin
     xing:
     github: mlazzarin
     telegram: # add your nickname without '@' sign
@@ -35,11 +35,11 @@ sidebar:
         level: C1
 
     interests:
-      - item: Science & Technology
-        link:
       - item: Videogames
         link:
       - item: Hiking
+        link:
+      - item: Space exploration
         link:
 
 career-profile:
