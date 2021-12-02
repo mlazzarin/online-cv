@@ -74,6 +74,26 @@ education:
         Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte
 
 experiences:
+    - role: Software Developer Intern
+      time: Since October 2021
+      company: Technology Innovation Institute, Abu Dhabi, UAE
+      details: |
+        As a member of the Quantum Research Center, I contribute to the development of Qibo,
+        a full-stack API for quantum simulation and quantum hardware control.
+         - Python, C++, CUDA, Numba, CuPy.
+         - Code review, documentation, version control, unit testing and continuous integration. 
+
+    - role: Research Intern
+      time: November 2020 - July 2021
+      company: CNR-IFN, Milan, Italy
+      details: |
+        I developed my Master Thesis "Quantum machine learning by tensor networks" within the research of the CNR-IFN,
+        as part of the Quantum Artificial Intelligence activities of the Quantum Team under the responsibility of its supervisor Dr. Enrico Prati.
+        Responsibilities/tasks:
+         - Implement and simulate quantum circuits using open-source Python libraries e.g. TensorFlow Quantum, Cirq, qsim and Qiskit.
+         - Reproduce results of existing literature and integrate them in custom settings.
+         - Perform numerical simulations on HPC clusters.
+         - Execute quantum circuits on quantum hardware available on the cloud e.g. IBM Q Experience or AWS Braket.
 
 projects:
     title: Projects
