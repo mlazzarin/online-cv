@@ -98,10 +98,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here I present some projects to which I have contributed.
     assignments:
+      - title: Qibo
+        link: "https://github.com/qiboteam/qibo"
+        tagline: "An open-source full stack API for quantum simulation and quantum hardware control."
       - title: MCNNTUNES
         link: "https://github.com/N3PDF/mcnntunes"
         tagline: "An open-source software package to tune Shower Monte Carlo event generators with neural networks."
