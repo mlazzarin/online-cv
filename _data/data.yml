@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Marco Lazzarin
-    tagline: MSc in Physics
+    tagline: Quantum Middleware Intern
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,36 +45,33 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Research intern working on quantum simulation and quantum middleware.
+        Fast-learner, perfectionist, striving for efficiency.
+
+        Tech skills: Python, C++, CUDA & Numba/CuPy, Keras, TensorFlow, Blender, UE 4.
+
+        MSc in Physics, with a focus on quantum computing, machine learning and numerical simulation,
+        in particular quantum machine learning and machine learning application in physics.
+
+        I spent my teenage years with classical music, sports, videogames and computer graphics.
+        Now I'm passionate about new technologies that tackle real-world problems / contribute to the collective achievements of mankind.
 
 education:
     - degree: MSc in Physics
       university: University of Milan
-      time: 2019 - 2021
+      time: September 2019 - July 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Quantum physics / technology, statistical physics and computational methods. 110/110 cum laude.
+        Thesis title: "Quantum machine learning by tensor networks"
+        Supervisors: Dr. Enrico Prati, Prof. Davide Emilio Galli
     - degree: BSc in Physics
       university: University of Milan
-      time: 2016 - 2019
+      time: September 2016 - October 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        High-energy physics, statistical physics and computational methods. 110/110 cum laude.
+        Thesis title: "A deep learning approach to event generator tuning"
+        Supervisor: Dr. Stefano Carrazza
+        Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte
 
 experiences:
 
