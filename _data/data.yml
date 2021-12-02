@@ -56,23 +56,6 @@ career-profile:
         I spent my teenage years with classical music, sports, videogames and computer graphics.
         Now I'm passionate about new technologies that tackle real-world problems / contribute to the collective achievements of mankind.
 
-education:
-    - degree: MSc in Physics
-      university: University of Milan
-      time: September 2019 - July 2021
-      details: |
-        Quantum physics / technology, statistical physics and computational methods. 110/110 cum laude.
-        Thesis title: "Quantum machine learning by tensor networks"
-        Supervisors: Dr. Enrico Prati, Prof. Davide Emilio Galli
-    - degree: BSc in Physics
-      university: University of Milan
-      time: September 2016 - October 2019
-      details: |
-        High-energy physics, statistical physics and computational methods. 110/110 cum laude.
-        Thesis title: "A deep learning approach to event generator tuning"
-        Supervisor: Dr. Stefano Carrazza
-        Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte
-
 experiences:
     - role: Software Developer Intern
       time: Since October 2021
@@ -118,6 +101,23 @@ publications:
         link: "https://www.sciencedirect.com/science/article/abs/pii/S0010465521000448?via%3Dihub"
         authors: Marco Lazzarin, Simone Alioli and Stefano Carrazza
         conference: Computer Physics Communications, 2021
+
+education:
+    - degree: MSc in Physics
+      university: University of Milan
+      time: September 2019 - July 2021
+      details: |
+        Quantum physics / technology, statistical physics and computational methods. 110/110 cum laude.
+        Thesis title: "Quantum machine learning by tensor networks"
+        Supervisors: Dr. Enrico Prati, Prof. Davide Emilio Galli
+    - degree: BSc in Physics
+      university: University of Milan
+      time: September 2016 - October 2019
+      details: |
+        High-energy physics, statistical physics and computational methods. 110/110 cum laude.
+        Thesis title: "A deep learning approach to event generator tuning"
+        Supervisor: Dr. Stefano Carrazza
+        Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte
 
 skills:
 
