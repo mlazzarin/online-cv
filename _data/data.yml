@@ -107,9 +107,10 @@ education:
       university: University of Milan
       time: September 2019 - July 2021
       details: |
-        Quantum physics / technology, statistical physics and computational methods. 110/110 cum laude.
+        Quantum physics / technology, statistical physics and computational methods.
         Thesis title: "Quantum machine learning by tensor networks"
         Supervisors: Dr. Enrico Prati, Prof. Davide Emilio Galli
+        110/110 cum laude.
     - degree: BSc in Physics
       university: University of Milan
       time: September 2016 - October 2019
@@ -118,6 +119,7 @@ education:
         Thesis title: "A deep learning approach to event generator tuning"
         Supervisor: Dr. Stefano Carrazza
         Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte
+        110/110 cum laude.
 
 skills:
 
