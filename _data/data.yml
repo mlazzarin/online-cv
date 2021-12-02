@@ -109,11 +109,11 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
+      - title: "Multi-class quantum classifiers with tensor network circuits for quantum phase recognition"
+        link: "https://arxiv.org/abs/2110.08386"
+        authors: Marco Lazzarin, Davide Emilio Galli, Enrico Prati
+        conference: arXiv e-prints
       - title: "MCNNTUNES: Tuning Shower Monte Carlo generators with machine learning"
         link: "https://www.sciencedirect.com/science/article/abs/pii/S0010465521000448?via%3Dihub"
         authors: Marco Lazzarin, Simone Alioli and Stefano Carrazza
