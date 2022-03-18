@@ -111,7 +111,7 @@ projects:
       - title: Qibojit
         link: "https://github.com/qiboteam/qibojit"
         tagline: "A quantum simulation backend with just-in-time compilation."
-       - title: Qibojit-benchmarks
+       - title: Qibojit benchmarks
         link: "https://github.com/qiboteam/qibojit-benchmarks"
         tagline: "A benchmark suite for quantum simulation libraries."
       - title: MCNNTUNES
