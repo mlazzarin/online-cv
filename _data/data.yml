@@ -115,10 +115,18 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: "Quantum simulation with just-in-time compilation"
+        link: "https://arxiv.org/abs/2203.08826"
+        authors: Stavros Efthymiou, Marco Lazzarin, Andrea Pasquale, Stefano Carrazza
+        conference: ArXiv e-prints, 2022
       - title: "Multi-class quantum classifiers with tensor network circuits for quantum phase recognition"
-        link: "https://arxiv.org/abs/2110.08386"
+        link: "https://doi.org/10.1016/j.physleta.2022.128056"
         authors: Marco Lazzarin, Davide Emilio Galli, Enrico Prati
-        conference: arXiv e-prints, 2021
+        conference: Physics Letters A, 2022
+      - title: "An open-source modular framework for quantum computing"
+        link: "https://arxiv.org/abs/2202.07017"
+        authors: Stefano Carrazza, Stavros Efthymiou, Marco Lazzarin, Andrea Pasquale
+        conference: ArXiv e-prints, 2022
       - title: "MCNNTUNES: Tuning Shower Monte Carlo generators with machine learning"
         link: "https://www.sciencedirect.com/science/article/abs/pii/S0010465521000448?via%3Dihub"
         authors: Marco Lazzarin, Simone Alioli and Stefano Carrazza
