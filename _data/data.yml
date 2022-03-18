@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Marco Lazzarin
-    tagline: Quantum Middleware Intern
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,7 +63,7 @@ education:
       details: |
         Quantum physics / technology, statistical physics and computational methods.
         Thesis title: "Quantum machine learning by tensor networks"
-        Supervisors: Dr. Enrico Prati, Prof. Davide Emilio Galli
+        Supervisors: Prof. Enrico Prati, Prof. Davide Emilio Galli
 
         110/110 cum laude.
 
@@ -73,13 +73,13 @@ education:
       details: |
         High-energy physics, statistical physics and computational methods. 110/110 cum laude.
         Thesis title: "A deep learning approach to event generator tuning"
-        Supervisor: Dr. Stefano Carrazza
+        Supervisor: Prof. Stefano Carrazza
         Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte
 
         110/110 cum laude.
 
 experiences:
-    - role: Software Developer Intern
+    - role: Quantum Software Developer
       time: October 2021 - January 2022
       company: Technology Innovation Institute, Abu Dhabi, UAE
       details: |
@@ -108,6 +108,12 @@ projects:
       - title: Qibo
         link: "https://github.com/qiboteam/qibo"
         tagline: "An open-source full stack API for quantum simulation and quantum hardware control."
+      - title: Qibojit
+        link: "https://github.com/qiboteam/qibojit"
+        tagline: "A quantum simulation backend with just-in-time compilation."
+       - title: Qibojit-benchmarks
+        link: "https://github.com/qiboteam/qibojit-benchmarks"
+        tagline: "A benchmark suite for quantum simulation libraries."
       - title: MCNNTUNES
         link: "https://github.com/N3PDF/mcnntunes"
         tagline: "An open-source software package to tune Shower Monte Carlo event generators with neural networks."
