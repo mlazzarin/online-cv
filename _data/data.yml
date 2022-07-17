@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Marco Lazzarin
-    tagline: Data Scientist - Software Engineer
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,8 +63,8 @@ education:
       time: September 2019 - July 2021
       details: |
         Quantum physics / technology, statistical physics and computational methods.
-        Thesis title: "Quantum machine learning by tensor networks"
-        Supervisors: Prof. Enrico Prati, Prof. Davide Emilio Galli
+        Thesis title: "Quantum machine learning by tensor networks".
+        Supervisors: Prof. Enrico Prati, Prof. Davide Emilio Galli.
 
         110/110 cum laude.
 
@@ -73,9 +73,9 @@ education:
       time: September 2016 - October 2019
       details: |
         High-energy physics, statistical physics and computational methods. 110/110 cum laude.
-        Thesis title: "A deep learning approach to event generator tuning"
-        Supervisor: Prof. Stefano Carrazza
-        Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte
+        Thesis title: "A deep learning approach to event generator tuning".
+        Supervisor: Prof. Stefano Carrazza.
+        Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte.
 
         110/110 cum laude.
 
