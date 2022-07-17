@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Marco Lazzarin
-    tagline: Software Engineer
+    tagline: Data Scientist - Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,13 +45,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Research intern working on quantum simulation and quantum middleware.
-        Fast-learner, perfectionist, striving for efficiency.
+        Data Science consultant with a background in Physics.
+        Delivering data-driven solutions to customers. Minimize costs, maximize results.
 
-        Tech skills: Python, C++, CUDA & Numba/CuPy, Keras, TensorFlow, Blender, UE 4.
+        Before working as a consultant I was into academic research.
+        My scientific background focused on computational methods, in particular machine learning, numerical simulation and quantum computing.
+        My research efforts involved machine learning applications to particle physics, novel machine learning algorithms for quantum computers, quantum simulation and GPU computing. Most of my work is public and accessible through my GitHub profile, arXiv and/or peer-reviewed journals.
 
-        MSc in Physics, with a focus on quantum computing, machine learning and numerical simulation,
-        in particular quantum machine learning and machine learning application in physics.
+        Tech skills: Python + AI/ML stuff, C/C++, CUDA & Numba/CuPy, Blender, UE 4.
 
         I spent my teenage years with classical music, sports, videogames and computer graphics.
         Now I'm passionate about new technologies that tackle real-world problems / contribute to the collective achievements of mankind.
@@ -79,26 +80,28 @@ education:
         110/110 cum laude.
 
 experiences:
+    - role: Data Scientist
+      time: Since May 2022
+      company: Business Integration Partners, Milan, Italy 
+
     - role: Quantum Software Developer
       time: October 2021 - January 2022
       company: Technology Innovation Institute, Abu Dhabi, UAE
       details: |
-        As a member of the Quantum Research Center, I contribute to the development of Qibo,
-        a full-stack API for quantum simulation and quantum hardware control.
-         - Python, C++, CUDA, Numba, CuPy.
-         - Code review, documentation, version control, unit testing and continuous integration. 
+        As a member of the Quantum Research Center, I was one of the core developer of Qibo (https://qibo.science/), a full‑stack API for quantum simulation and quantum hardware control.
+        Qibo provides tools for laboratories, a flexible API for quantum developers and a set of pre‑coded quantum algorithms for applications e.g. in chemistry or in quantum machine learning.
+          - Python, C++, CUDA, Numba, CuPy.
+          - Code review, documentation, version control, unit testing and continuous integration.
 
     - role: Research Intern
       time: November 2020 - July 2021
       company: CNR-IFN, Milan, Italy
       details: |
-        I developed my Master Thesis "Quantum machine learning by tensor networks" within the research of the CNR-IFN,
-        as part of the Quantum Artificial Intelligence activities of the Quantum Team under the responsibility of its supervisor Dr. Enrico Prati.
-        Responsibilities/tasks:
-         - Implement and simulate quantum circuits using open-source Python libraries e.g. TensorFlow Quantum, Cirq, qsim and Qiskit.
-         - Reproduce results of existing literature and integrate them in custom settings.
-         - Perform numerical simulations on HPC clusters.
-         - Execute quantum circuits on quantum hardware available on the cloud e.g. IBM Q Experience or AWS Braket.
+        I developed my Master Thesis ``Quantum machine learning by tensor networks" within the research of the CNR-IFN, as part of the Quantum Artificial Intelligence activities of the Quantum Team under the responsibility of its supervisor Prof. Enrico Prati.
+        Tasks:
+         - Implement classical-quantum machine learning models with open-source Python libraries e.g. TensorFlow (Quantum), Keras and Scikit-learn.
+         - Reproduce results of existing literature and integrate them in custom settings. Develop novel quantum-classical algorithms.
+         - Train and fine-tune machine learning models on HPC clusters.
 
 projects:
     title: Projects
