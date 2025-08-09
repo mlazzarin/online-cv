@@ -44,7 +44,7 @@ sidebar:
       level: C1
 
     - idiom: Japanese
-      level: +- N4
+      level: around N4
 
   interests:
     title: Interests
@@ -78,22 +78,20 @@ education:
       university: University of Milan
       time: September 2019 - July 2021
       details: |
-        Quantum physics / technology, statistical physics and computational methods.
-        Thesis title: "Quantum machine learning by tensor networks".
-        Supervisors: Prof. Enrico Prati, Prof. Davide Emilio Galli
-
-        110/110 cum laude.
+        Quantum physics / technology, statistical physics and computational methods. 110/110 cum laude.
+          - Thesis title: "Quantum machine learning by tensor networks".
+          - Supervisors: Prof. Enrico Prati, Prof. Davide Emilio Galli.
+          - Research output: peer‑reviewed paper.
 
     - degree: BSc in Physics
       university: University of Milan
       time: September 2016 - October 2019
       details: |
-        High-energy physics, statistical physics and computational methods.
-        Thesis title: "A deep learning approach to event generator tuning"
-        Supervisor: Prof. Stefano Carrazza
-        Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte
-
-        110/110 cum laude.
+        High-energy physics, statistical physics and computational methods. 110/110 cum laude.
+          - Thesis title: "A deep learning approach to event generator tuning".
+          - Supervisor: Prof. Stefano Carrazza.
+          - Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte.
+          - Research output: peer‑reviewed paper & open‑source code.
 
 experiences:
   title: Experiences
@@ -159,8 +157,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      Here I present some projects to which I have contributed.
+    # intro: >
+    #   Here I present some projects to which I have contributed.
     assignments:
       - title: Qibo
         link: "https://github.com/qiboteam/qibo"
