@@ -93,6 +93,14 @@ education:
           - Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte.
           - Research output: peer‑reviewed paper & open‑source code.
 
+    # - degree: Scientific Diploma
+    #   university: High School “Ludovico Geymonat”
+    #   time: September 2011 - July 2016
+    #   details: |
+    #     - High school curriculum focused on applied science i.e. Math, Physics, Chemistry, Biology, Geology & Computer Science.
+    #     - As final project, I developed a basic roller‑coaster simulator powered by the 3D real‑time engine Unreal Engine 4.
+    #     - 100/100 cum laude.
+
 experiences:
   title: Experiences
   info:
