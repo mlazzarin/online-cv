@@ -198,22 +198,22 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: "An open-source modular framework for quantum computing"
+        link: "https://doi.org/10.1088/1742-6596/2438/1/012148"
+        authors: Stefano Carrazza, Stavros Efthymiou, Marco Lazzarin and Andrea Pasquale
+        conference: Journal of Physics, February 2023
       - title: "Quantum simulation with just-in-time compilation"
-        link: "https://arxiv.org/abs/2203.08826"
-        authors: Stavros Efthymiou, Marco Lazzarin, Andrea Pasquale, Stefano Carrazza
-        conference: ArXiv e-prints, 2022
+        link: "https://doi.org/10.22331/q-2022-09-22-814"
+        authors: Stavros Efthymiou, Marco Lazzarin, Andrea Pasquale and Stefano Carrazza
+        conference: Quantum, September 2022
       - title: "Multi-class quantum classifiers with tensor network circuits for quantum phase recognition"
         link: "https://doi.org/10.1016/j.physleta.2022.128056"
-        authors: Marco Lazzarin, Davide Emilio Galli, Enrico Prati
-        conference: Physics Letters A, 2022
-      - title: "An open-source modular framework for quantum computing"
-        link: "https://arxiv.org/abs/2202.07017"
-        authors: Stefano Carrazza, Stavros Efthymiou, Marco Lazzarin, Andrea Pasquale
-        conference: ArXiv e-prints, 2022
+        authors: Marco Lazzarin, Davide Emilio Galli and Enrico Prati
+        conference: Physics Letters A, May 2022
       - title: "MCNNTUNES: Tuning Shower Monte Carlo generators with machine learning"
-        link: "https://www.sciencedirect.com/science/article/abs/pii/S0010465521000448?via%3Dihub"
+        link: "https://doi.org/10.1016/j.cpc.2021.107908"
         authors: Marco Lazzarin, Simone Alioli and Stefano Carrazza
-        conference: Computer Physics Communications, 2021
+        conference: Computer Physics Communications, June 2021
 
 # recommendations:
 #   title: Recommendations
