@@ -106,20 +106,29 @@ experiences:
     - role: Data Scientist
       time: Since May 2022
       company: Business Integration Partners, Milan, Italy
-      details: |
-        Details.
+      # details: |
+      #   Details.
 
     - role: Software Engineer Intern
       time: October 2021 - January 2022
       company: Technology Innovation Institute, Abu Dhabi, UAE
       details: |
-        Details.
+        As a member of the [Quantum Research Center](https://www.tii.ae/quantum), I was one of the core developer of [Qibo](https://qibo.science/), an open‑source middleware for quantum computing.
+        - Contribute to the GPU‑accelerated simulation backend with just‑in‑time compilation, see [qiboteam/qibojit](https://github.com/qiboteam/qibojit).
+        - Benchmark simulation performance against competing solutions, see [qiboteam/qibojit‑benchmarks](https://github.com/qiboteam/qibojit-benchmarks/).
+        - General maintenance, implementation of new features, bugfixing & code review, see [qiboteam/qibo](https://github.com/qiboteam/qibo).
+        - Contribute to the quantum hardware backend, see [qiboteam/qibolab](https://github.com/qiboteam/qibolab/).
+        - Python, C++, CUDA, Numba, CuPy, GitHub Actions.
+        During my internship I contributed to two peer‑reviewed publication, see [Publication 1](https://doi.org/10.22331/q-2022-09-22-814) and [Publication 2](https://doi.org/10.1088/1742-6596/2438/1/012148).
 
     - role: Research Intern
       time: November 2020 - July 2021
       company: CNR-IFN, Milan, Italy
       details: |
-        Details.
+        I developed my Master Thesis "Quantum machine learning by tensor networks" under the responsibility of Prof. Enrico Prati.
+          - Implement quantum-classical machine learning models with open-source Python libraries e.g. TensorFlow Quantum.
+          - Reproduce results of existing literature and integrate them in custom settings. Develop novel quantum-classical algorithms.
+          - Train and fine-tune machine learning models on HPC clusters.
 
 # certifications:
 #   title: Certifications
