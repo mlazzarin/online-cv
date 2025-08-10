@@ -88,7 +88,7 @@ education:
       time: September 2016 - October 2019
       details: |
         High-energy physics, statistical physics, computational methods. 110/110 cum laude.
-          - Thesis title: "A deep learning approach to event generator tuning".
+          - Thesis title: ["A deep learning approach to event generator tuning"](https://n3pdf.mi.infn.it/wp-content/uploads/2021/01/thesis_lazzarin.pdf).
           - Supervisor: Prof. Stefano Carrazza.
           - Co-supervisors: Prof. Simone Alioli, Prof. Stefano Forte.
           - Research output: peer‑reviewed paper & open‑source code.
