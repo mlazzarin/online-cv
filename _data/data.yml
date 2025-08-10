@@ -168,18 +168,18 @@ projects:
     # intro: >
     #   Here I present some projects to which I have contributed.
     assignments:
+      - title: MCNNTUNES
+        link: "https://github.com/N3PDF/mcnntunes"
+        tagline: "Tuning Shower Monte Carlo generators with machine learning."
       - title: Qibo
         link: "https://github.com/qiboteam/qibo"
-        tagline: "An open-source full stack API for quantum simulation and quantum hardware control."
+        tagline: "A full-stack framework for quantum computing."
       - title: Qibojit
         link: "https://github.com/qiboteam/qibojit"
-        tagline: "A quantum simulation backend with just-in-time compilation."
+        tagline: "Accelerating Qibo simulation with just-in-time compilation."
       - title: Qibojit-benchmarks
         link: "https://github.com/qiboteam/qibojit-benchmarks"
         tagline: "A benchmark suite for quantum simulation libraries."
-      - title: MCNNTUNES
-        link: "https://github.com/N3PDF/mcnntunes"
-        tagline: "An open-source software package to tune Shower Monte Carlo event generators with neural networks."
       - title: Jouyou Kanji Book
         link: "https://github.com/mlazzarin/jouyou_kanji_book"
         tagline: "A simple HTML/PDF book with all 2136 jouyou kanji (常用漢字)."
