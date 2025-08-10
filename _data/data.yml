@@ -114,11 +114,12 @@ experiences:
       company: Technology Innovation Institute, Abu Dhabi, UAE
       details: |
         As a member of the [Quantum Research Center](https://www.tii.ae/quantum), I was one of the core developer of [Qibo](https://qibo.science/), an open‑source middleware for quantum computing.
-        - Contribute to the GPU‑accelerated simulation backend with just‑in‑time compilation, see [qiboteam/qibojit](https://github.com/qiboteam/qibojit).
-        - Benchmark simulation performance against competing solutions, see [qiboteam/qibojit‑benchmarks](https://github.com/qiboteam/qibojit-benchmarks/).
-        - General maintenance, implementation of new features, bugfixing & code review, see [qiboteam/qibo](https://github.com/qiboteam/qibo).
-        - Contribute to the quantum hardware backend, see [qiboteam/qibolab](https://github.com/qiboteam/qibolab/).
+        - [Contribute to the GPU‑accelerated simulation backend with just‑in‑time compilation](https://github.com/qiboteam/qibojit).
+        - [Benchmark simulation performance against competing solutions](https://github.com/qiboteam/qibojit-benchmarks/).
+        - [General maintenance, implementation of new features, bugfixing & code review](https://github.com/qiboteam/qibo).
+        - [Contribute to the quantum hardware backend](https://github.com/qiboteam/qibolab/).
         - Python, C++, CUDA, Numba, CuPy, GitHub Actions.
+
         During my internship I contributed to two peer‑reviewed publication, see [Publication 1](https://doi.org/10.22331/q-2022-09-22-814) and [Publication 2](https://doi.org/10.1088/1742-6596/2438/1/012148).
 
     - role: Research Intern
