@@ -44,7 +44,7 @@ sidebar:
       level: C1
 
     - idiom: Japanese
-      level: around N4
+      level: N4
 
   interests:
     title: Interests
@@ -134,12 +134,12 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: Cambridge FCE - Grade A (C1)
-    start: July 2015
-    organization: Cambridge English
   - name: Japanese-Language Proficiency Test N4 - Grade A (A2)
     start: December 2025
     organization: The Japan Foundation
+  - name: Cambridge FCE - Grade A (C1)
+    start: July 2015
+    organization: Cambridge English
 
 projects:
     title: Projects
