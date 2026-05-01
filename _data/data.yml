@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Marco Lazzarin
-  tagline: Data Scientist
+  # tagline: Data Scientist
   avatar: profile_3.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -61,15 +61,15 @@ sidebar:
       link:
 
 
-career-profile:
-  title: Career Profile
-  summary: |
-    Precise, detail-oriented professional with 4+ years of experience in the tech industry.
-    Currently working as Data Scientist for a consultancy firm,
-    developing custom algorithms, models and data pipelines for clients
-    in the Energy & Industrial sector. Previously contributed to
-    Quantum Computing R&D, mostly middleware & GPU simulation of quantum systems.
-    Master's degree in Physics, specialized in quantum physics and computational methods.
+# career-profile:
+#   title: Career Profile
+#   summary: |
+#     Precise, detail-oriented professional with 4+ years of experience in the tech industry.
+#     Currently working as Data Scientist for a consultancy firm,
+#     developing custom algorithms, models and data pipelines for clients
+#     in the Energy & Industrial sector. Previously contributed to
+#     Quantum Computing R&D, mostly middleware & GPU simulation of quantum systems.
+#     Master's degree in Physics, specialized in quantum physics and computational methods.
 
 education:
   title: Education
@@ -104,7 +104,7 @@ experiences:
   title: Experiences
   info:
     - role: Data Scientist
-      time: Since May 2022
+      time: May 2022 - April 2026
       company: Business Integration Partners, Milan, Italy
       # details: |
       #   Details.
