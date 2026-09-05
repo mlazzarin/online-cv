@@ -114,10 +114,10 @@ experiences:
       company: Technology Innovation Institute, Abu Dhabi, UAE
       details: |
         As a member of the [Quantum Research Center](https://www.tii.ae/quantum), I was one of the core developer of [Qibo](https://qibo.science/), an open‑source middleware for quantum computing.
-        - [Contribute to the GPU‑accelerated simulation backend with just‑in‑time compilation](https://github.com/qiboteam/qibojit).
-        - [Benchmark simulation performance against competing solutions](https://github.com/qiboteam/qibojit-benchmarks/).
+        - [Contributed to the GPU‑accelerated simulation backend with just‑in‑time compilation](https://github.com/qiboteam/qibojit).
+        - [Benchmarked simulation performance against competing solutions](https://github.com/qiboteam/qibojit-benchmarks/).
         - [General maintenance, implementation of new features, bugfixing & code review](https://github.com/qiboteam/qibo).
-        - [Contribute to the quantum hardware backend](https://github.com/qiboteam/qibolab/).
+        - [Contributed to the quantum hardware backend](https://github.com/qiboteam/qibolab/).
         - Python, C++, CUDA, Numba, CuPy, GitHub Actions.
 
         During my internship I contributed to two peer‑reviewed publication, see [Pub1](https://doi.org/10.22331/q-2022-09-22-814) and [Pub2](https://doi.org/10.1088/1742-6596/2438/1/012148).
@@ -127,9 +127,9 @@ experiences:
       company: CNR-IFN, Milan, Italy
       details: |
         I developed my Master Thesis "Quantum machine learning by tensor networks" under the responsibility of Prof. Enrico Prati.
-          - Implement quantum-classical machine learning models with open-source Python libraries e.g. TensorFlow Quantum.
-          - Reproduce results of existing literature and integrate them in custom settings. Develop novel quantum-classical algorithms.
-          - Train and fine-tune machine learning models on HPC clusters.
+          - Implemented quantum-classical machine learning models with open-source Python libraries e.g. TensorFlow Quantum.
+          - Reproduced results of existing literature and integrate them in custom settings. Develop novel quantum-classical algorithms.
+          - Trained and fine-tuned machine learning models on HPC clusters.
 
 certifications:
   title: Certifications
